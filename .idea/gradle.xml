@@ -3,10 +3,90 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/src/T01/exercise0" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/src/T01/exercise0" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/src/T01/exercise1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/src/T01/exercise1" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/src/T01/exercise10" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/src/T01/exercise10" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/src/T01/exercise2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/src/T01/exercise2" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/src/T01/exercise3" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/src/T01/exercise3" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/src/T01/exercise4" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/src/T01/exercise4" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/src/T01/exercise5" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/src/T01/exercise5" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/src/T01/exercise6" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/src/T01/exercise6" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/src/T01/exercise7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/src/T01/exercise7" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/src/T01/exercise8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/src/T01/exercise8" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/src/T01/exercise9" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/src/T01/exercise9" />
           </set>
         </option>
       </GradleProjectSettings>
